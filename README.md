@@ -1,2 +1,2 @@
 # skill-swap-platform
-Solo Hackathon Project For Odoo Hackathon 2025
+Hackathon Project For Odoo Hackathon 2025
